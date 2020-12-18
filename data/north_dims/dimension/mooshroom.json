@@ -1,5 +1,5 @@
 {
-  "type": "mooshroom",
+  "type": "north_dims:mooshroom",
   "generator": {
     "type": "minecraft:noise",
     "seed": -904225609,
